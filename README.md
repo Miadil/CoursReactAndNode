@@ -4,4 +4,5 @@
 - [02 - react Library ou Framwork ?](https://youtu.be/LXjqDUPHIu8)
 - [03 - lancer son premier projet React](https://youtu.be/9YzN1N7twCU)
 - [04 - analyse du contenu de notre dossier react](https://youtu.be/vgxacJLoc4Y)
+- [05   créer son premier composent react](https://youtu.be/q1VUsChfQv0)
 
